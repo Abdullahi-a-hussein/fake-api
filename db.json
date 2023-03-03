@@ -1,4 +1,4 @@
-robots=[
+{"robots": [
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -60,3 +60,4 @@ robots=[
     "email": "Rey.Padberg@karina.biz"
   }
 ]
+}
