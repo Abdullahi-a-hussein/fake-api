@@ -1,9 +1,9 @@
 robots = [
   {
     "id": 1,
-    "name": 'Leanne Graham',
-    "username": 'Bret',
-    "email": 'Sincere@april.biz'
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz"
   },
   {
     "id": 2,
@@ -59,4 +59,4 @@ robots = [
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz"
   }
-];
+]
